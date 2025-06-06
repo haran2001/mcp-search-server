@@ -9,6 +9,9 @@ import json
 import os
 from fastmcp import Client
 
+from dotenv import load_dotenv
+load_dotenv()
+
 async def test_mcp_search_server():
     """Test the MCP Search Server functionality"""
     

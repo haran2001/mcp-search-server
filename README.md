@@ -2,19 +2,28 @@
 
 An intelligent MCP (Model Context Protocol) server that helps you discover and research MCP servers using the powerful Exa AI search engine. Built with FastMCP for seamless integration with AI assistants like Claude, Cursor, and more.
 
+## 🎥 Demo
+
+Watch the demo video to see the MCP Search Server in action:
+
+[![MCP Search Server Demo](https://img.youtube.com/vi/GJKeGowUqww/0.jpg)](https://www.youtube.com/watch?v=GJKeGowUqww)
+
+[**🎬 View Demo on YouTube**](https://www.youtube.com/watch?v=GJKeGowUqww)
+
 ## Table of Contents
 
-1. [Features](#-features)
-2. [Architecture](#-architecture) 
-3. [Quick Start](#-quick-start)
-4. [Installation Guide](#-installation-guide)
-5. [Usage Guide](#-usage-guide)
-6. [Configuration](#-configuration)
-7. [API Reference](#-api-reference)
-8. [Integration](#-integration)
-9. [Troubleshooting](#-troubleshooting)
-10. [Contributing](#-contributing)
-11. [License](#-license)
+1. [Demo](#-demo)
+2. [Features](#-features)
+3. [Architecture](#-architecture) 
+4. [Quick Start](#-quick-start)
+5. [Installation Guide](#-installation-guide)
+6. [Usage Guide](#-usage-guide)
+7. [Configuration](#-configuration)
+8. [API Reference](#-api-reference)
+9. [Integration](#-integration)
+10. [Troubleshooting](#-troubleshooting)
+11. [Contributing](#-contributing)
+12. [License](#-license)
 
 ---
 
